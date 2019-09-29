@@ -98,7 +98,7 @@ export default class App extends Component<Props> {
   }
 
   render() {
-    const GOOGLE_MAPS_APIKEY = 'AIzaSyCmQQkTsQjLZ0nkk0VvTSwvb3_8rilbyVE';
+    const GOOGLE_MAPS_APIKEY = '<GOOGLE_MAPS_APIKEY>';
     return (
       <View style={styles.container}>
         <MapView
